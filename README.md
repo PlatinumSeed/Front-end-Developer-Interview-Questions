@@ -16,8 +16,11 @@ This file contains a number of front-end interview questions that can be used wh
 * What is a recent technical challenge you experienced and how did you solve it?
 * Which version control systems are you familiar with?
 * If you could master one technology this year, what would it be?
+* Please describe your experience with web animations. And list animation methods you are familiar with.
 * Do you have any examples of web animations, UI, code experiments that you've created?
-* How strong is your javascript programming knowledge?
+* Please expand on your level of javascript expertise.
+* Do you have experience with any javascript frameworks, if so which ones?
+* Do you have any experience with integrating a front end with a REST api?
 
 #### General Questions:
 * What excites or interests you about coding?
